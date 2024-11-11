@@ -17,10 +17,6 @@ conda env create -f environment.yml
 ```
 
 ## Usage
-To run interactions on three LLMs (OPT-1.3B, LLaMA-7B, and Aquila-7B), you can refer to the following script:
-```
-./scripts/bash_interaction_LLM.sh
-```
 
 To better reproduce our results in the paper, **we suggest directly downloading all the raw interactions** from this [Google Drive](https://drive.google.com/drive/folders/1lRq3TR1U7_3ijw_30-nM1ucRJynkXh9E?usp=sharing).
 
