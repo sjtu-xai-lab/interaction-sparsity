@@ -1,0 +1,8 @@
+{
+    "model":"bert-large-cased",
+    "tag":"bert-large-cased",
+    "model_path":"checkpoints/models--BAAI--Aquila-7B/snapshots/d314aaf559fa192bf2f09760ca3815b589fc69f8",
+    "tokenizer_path":"checkpoints/models--BAAI--Aquila-7B/snapshots/d314aaf559fa192bf2f09760ca3815b589fc69f8",
+    "word_embed":"tok_embeddings",
+    "mid_layer":"model/layers/15/post_attention_layernorm"
+}

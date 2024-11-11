@@ -1,0 +1,8 @@
+{
+    "model":"decapoda-research--llama-7b-hf",
+    "tag":"llma",
+    "model_path":"checkpoints/models--decapoda-research--llama-7b-hf/snapshots/5f98eefcc80e437ef68d457ad7bf167c2c6a1348",
+    "tokenizer_path":"checkpoints/models--decapoda-research--llama-7b-hf/snapshots/5f98eefcc80e437ef68d457ad7bf167c2c6a1348",
+    "word_embedding_layer_name":"model/embed_tokens",
+    "mid_layer_name":"model/layers/15/post_attention_layernorm"
+}

@@ -1,0 +1,8 @@
+{
+    "model":"facebook/opt-1.3b",
+    "tag":"facebook/opt-1.3b",
+    "model_path":"checkpoints/models--facebook--opt-1.3b/snapshots/8c7b10754972749675d22364c25c428b29face51",
+    "tokenizer_path":"checkpoints/models--facebook--opt-1.3b/snapshots/8c7b10754972749675d22364c25c428b29face51",
+    "word_embed":"model/decoder/embed_tokens",
+    "mid_layer":"model/layers/15/post_attention_layernorm"
+}
